@@ -1,0 +1,29 @@
+.nav-tab{
+  background-color: blue;
+  border-style: double;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  width:10%;
+  border: 3px solid rgb(202,7,0);
+  text-align: center;
+}
+
+.change{
+  text-decoration: none;
+  color:black;
+}
+
+div.nav-tab:hover{
+ background-color: lightblue;
+}
+
+h1{
+text-align: center;
+color: darkblue;
+}
+
+body{
+background-image: url("https://wallpaperscraft.com/image/puzzles_puzzle_part_shape_106469_1440x900.jpg");
+}
