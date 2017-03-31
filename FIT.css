@@ -1,12 +1,12 @@
 .nav-tab{
-  background-color: blue;
+  background-color: white;
   border-style: double;
   margin-top: 20px;
   margin-bottom: 20px;
   margin-right: auto;
   margin-left: auto;
   width:10%;
-  border: 3px solid rgb(202,7,0);
+  border: 3px solid black;
   text-align: center;
 }
 
@@ -16,14 +16,29 @@
 }
 
 div.nav-tab:hover{
- background-color: lightblue;
+ background-color: grey;
 }
 
-h1{
-text-align: center;
-color: darkblue;
-}
 
 body{
 background-image: url("https://wallpaperscraft.com/image/puzzles_puzzle_part_shape_106469_1440x900.jpg");
+}
+
+.stroke{
+  font-size: 40px;
+  -webkit-text-fill-color: white;
+ -webkit-text-stroke-width: 1.5px;
+ -webkit-text-stroke-color: black;
+}
+
+h1.stroke{
+  font-size: 60px;
+  text-align: center;
+}
+
+.x{
+  font-size: 40px;
+  -webkit-text-fill-color: white;
+ -webkit-text-stroke-width: 1.5px;
+ -webkit-text-stroke-color: black;
 }
